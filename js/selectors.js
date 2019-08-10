@@ -1,6 +1,6 @@
 // declare your functions here...
 
-const paragraphSelector = () => {
+function paragraphSelector {
   return $("p")
 }
 
