@@ -13,5 +13,5 @@ const ninjaBabySelector = () => {
 }
 
 const firstListItem = () => {
-  
+  $("ul #pic-list:first")
 }
